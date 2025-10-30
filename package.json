@@ -39,7 +39,20 @@
   "directories": {
     "test": "tests"
   },
-  "keywords": [],
+  "keywords": [
+    "phonetic",
+    "matching",
+    "soundex",
+    "metaphone",
+    "beider-morse",
+    "bmpm",
+    "name-matching",
+    "fuzzy",
+    "string-similarity",
+    "typescript",
+    "deduplication",
+    "multilingual"
+  ],
   "bugs": {
     "url": "https://github.com/you/bmpm-phonetics/issues"
   },
