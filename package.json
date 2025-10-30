@@ -1,6 +1,6 @@
 {
   "name": "bmpm-phonetics",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Beider–Morse Phonetic Matching in TypeScript",
   "license": "MIT",
   "author": "dhayes",
